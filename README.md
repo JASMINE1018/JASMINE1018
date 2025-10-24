@@ -25,7 +25,7 @@
 - 💻 Learning **JavaScript, Python, CSS, and more**
 - 💬 Love discussing **everything tech and design**
 - 📫 Contact me: **jasminee18.jerukk@gmail.com**
-- ⚡ Fun fact: *"People say I’m friendly — but I enjoy calm moments too"* 🌿
+- ⚡ Fun fact: *"People say I’m friendly — but I'm calm too"* 🌿
 
 ---
 
