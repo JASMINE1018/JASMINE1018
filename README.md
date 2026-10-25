@@ -1,74 +1,77 @@
-<!-- 🌿❤️ Jasmine Olivia | Red-Green Aesthetic GitHub Profile -->
+<!-- GitHub Profile Readme - Minimalist Edition -->
 <div align="center">
 
-<!-- 🌈 HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,e63946,2a9d8f,2&height=180&section=header&text=✨%20Hello%20World!%20I'm%20Jasmine%20✨&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BC0202,DFDE71,BC0202&height=160&section=header&text=Jasmine%20Olivia&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<h3 align="center" style="color:#2a9d8f;">🎨 Illustrator | 💻 Full-Stack Developer | ✂️ Editor</h3>
+  <h3 align="center" style="color: #BC0202; font-weight: 500; letter-spacing: 1px;">
+    Illustrator &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Editor
+  </h3>
 
-<br/>
+  <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasmine1018&label=Profile%20Views&color=e63946&style=for-the-badge" alt="Profile views" />
-</p>
+  <!-- Profile Views & Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jasmine1018&label=PROFILE%20VIEWS&color=BC0202&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasmine1018&theme=onedark&title=Commit,Stars,Followers,Repositories,PullRequest&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌱 About Me
-> 💫 *A little mix of creativity and code.*
-
-- 🤩 Currently experimenting with a **random website project**
-- 💻 Learning **JavaScript, Python, CSS, and more**
-- 💬 Love discussing **everything tech and design**
-- 📫 Contact me: **jasminee18.jerukk@gmail.com**
-- ⚡ Fun fact: *"People say I’m friendly — but I'm calm too"* 🌿
+</div>
 
 ---
 
-### 🔗 Connect With Me
+### About
+
+- Currently experimenting with web development projects
+- Tech Stack focus: **JavaScript**, **Python**, **CSS**, and modern web architectures
+- Open for discussion on technology, system architecture, and visual design
+- Contact: **jasminee18.jerukk@gmail.com**
+
+---
+
+### Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmine-olivia-079368382" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2a9d8f?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-BC0202?style=for-the-badge&logo=linkedin&logoColor=DFDE71" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/r_.1959" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e63946?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-DFDE71?style=for-the-badge&logo=instagram&logoColor=BC0202" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,nodejs,figma,git,photoshop&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,nodejs,figma,git,photoshop&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmine1018&show_icons=true&bg_color=0d1117&title_color=e63946&text_color=2a9d8f&icon_color=e63946&hide_border=true&border_radius=15" height="160px"/>
+### GitHub Statistics
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmine1018&layout=compact&bg_color=0d1117&title_color=2a9d8f&text_color=e63946&hide_border=true&border_radius=15" height="160px"/>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasmine1018&show_icons=true&bg_color=0d1117&title_color=BC0202&text_color=DFDE71&icon_color=BC0202&hide_border=true&border_radius=8" height="155px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmine1018&layout=compact&bg_color=0d1117&title_color=DFDE71&text_color=BC0202&hide_border=true&border_radius=8" height="155px" alt="Top Languages" />
 </div>
 
+<br />
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasmine1018&theme=highcontrast&background=0d1117&ring=e63946&fire=2a9d8f&currStreakLabel=2a9d8f&sideLabels=e63946&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasmine1018&theme=dark&background=0d1117&ring=BC0202&fire=DFDE71&currStreakLabel=DFDE71&sideLabels=BC0202&hide_border=true" height="165px" alt="Streak Stats" />
 </p>
 
 ---
 
 <div align="center">
 
-<!-- 🌈 FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e63946,2a9d8f,e63946,2a9d8f&height=100&section=footer"/>
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DFDE71,BC0202,DFDE71&height=100&section=footer" width="100%" />
 
-<h3 style="color:#e63946;">✨ "Code with Passion, Create with Heart" ✨</h3>
+  <p style="color: #BC0202; font-style: italic; font-size: 14px; letter-spacing: 0.5px;">
+    "Code with Passion, Create with Heart"
+  </p>
 
 </div>
-
