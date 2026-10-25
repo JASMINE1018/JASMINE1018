@@ -24,7 +24,6 @@
 - Currently experimenting with web development projects
 - Tech Stack focus: **JavaScript**, **Python**, **CSS**, and modern web architectures
 - Open for discussion on technology, system architecture, and visual design
-- Contact: **jasminee18.jerukk@gmail.com**
 
 ---
 
