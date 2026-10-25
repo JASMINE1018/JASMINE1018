@@ -5,7 +5,8 @@
 <img alt="Sunday" src="https://github.com/JASMINE1018/JASMINE1018/blob/main/Sunday.jpe">
 
   <h3 align="center" style="color: #BC0202; font-weight: 500; letter-spacing: 1px;">
-    Illustrator &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Editor
+    Illustrator &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Editor <br>
+    GAMEDEV COMINGSOON!
   </h3>
 
   <br />
@@ -20,10 +21,8 @@
 ---
 
 ### About
+"Hello! My name is **Jasmine Olivia Putri/MNE**, a student at **SMKN 1 SURABAYA**. Currently experimenting with web development projects with a primary tech stack focus on **React**, **Laravel**, and modern web architectures, I am deeply passionate about building scalable and intuitive web applications. Always eager to explore innovative solutions, I am open for discussion on technology, system architecture, and visual design."
 
-- Currently experimenting with web development projects
-- Tech Stack focus: **JavaScript**, **Python**, **CSS**, and modern web architectures
-- Open for discussion on technology, system architecture, and visual design
 
 ---
 
@@ -43,9 +42,17 @@
 
 ### Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,nodejs,figma,git,photoshop&theme=dark" alt="Tech Stack" />
-</p>
+<div align="center">
+  <details>
+    <summary style="cursor: pointer; color: #BC0202; font-weight: 600; outline: none;">
+      <b>Click to expand languages & tools</b>
+    </summary>
+    <br />
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,nodejs,react,laravel,figma,git,photoshop&theme=dark" alt="Tech Stack" />
+    </p>
+  </details>
+</div>
 
 ---
 
