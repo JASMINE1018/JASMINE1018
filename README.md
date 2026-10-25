@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BC0202,DFDE71,BC0202&height=160&section=header&text=Jasmine%20Olivia&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
+<img alt="Sunday" src="https://github.com/JASMINE1018/JASMINE1018/blob/main/Sunday.jpe">
 
   <h3 align="center" style="color: #BC0202; font-weight: 500; letter-spacing: 1px;">
     Illustrator &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Editor
